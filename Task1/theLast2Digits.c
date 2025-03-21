@@ -28,3 +28,7 @@ void getLast2Digits(){
 
     printf("The last 2 digits are %d\n",last2Digits);
 }
+
+
+
+// in codeforces : https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/287436578

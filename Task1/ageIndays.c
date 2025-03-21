@@ -29,3 +29,6 @@ void getAgeInDays(int age){
 
     return ;
 }
+
+
+/// in codeforces: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/287401818
